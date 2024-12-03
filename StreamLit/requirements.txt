@@ -2,7 +2,7 @@ pandas
 numpy
 yfinance
 scipy
-matplotlib.pyplot
+matplotlib
 datetime
 seaborn
 fredapi
