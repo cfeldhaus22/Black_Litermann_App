@@ -81,7 +81,7 @@ asset using the Black-Litterman model. For more details, see this
 ## Contribution :raised_hand:
 
 If you have ideas or improvements for this project, they are welcome! Feel free to look at the raw
-code in my [GitHub repository](https://www.github.com/cfeldhaus22/Black_Litterman) and open a Pull
+code in my [GitHub repository](https://www.github.com/cfeldhaus22/Black_Litermann_App) and open a Pull
 Request with your changes. 
 
 You can also contact me via E-mail in: c.feldha@gmail.com.
